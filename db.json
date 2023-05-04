@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "text": "Mechanic",
-      "day": "Friday",
-      "reminder": true,
-      "id": 1
-    },
-    {
       "text": "Church",
       "day": "Sunday",
       "reminder": true,
